@@ -1,7 +1,7 @@
 # faculty-location
 
 Process video  
-https://github.com/user-attachments/assets/ad9cc18c-a3b1-473e-abb6-55fe84d01264
+![Process video](https://github.com/user-attachments/assets/ad9cc18c-a3b1-473e-abb6-55fe84d01264)
 
 App Screenshots  
 <img src="https://github.com/user-attachments/assets/4c614f3c-36c2-461e-b8b6-e639fee5a1b3" width="300"/>
